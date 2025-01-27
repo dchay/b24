@@ -289,3 +289,4 @@ Desktop.ini
 .csettings
 rust-project.json
 coverage*[.json, .xml, .info]
+!/src/hsh/obj/
